@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Nots</string>
+    <string name="to_do">To DO</string>
+    <string name="enter_note">Enter a note...</string>
+    <string name="save">Save</string>
+    <string name="date">31 October 2020</string>
+    <string name="edit">edit</string>
+    <string name="delete">delete</string>
+    <string name="update">update</string>
+    <string name="importance">IMPORTANCE:</string>
+</resources>

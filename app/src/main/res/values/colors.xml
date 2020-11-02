@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name = "colorPrimary">#36486b</color>
+    <color name = "colorPrimaryDark">#36486b</color>
+    <color name = "colorAccent">#a2b9bc</color>
+
+    <!--color palette-->
+    <color name = "white">#FFFAF0</color>
+    <color name = "dark_green">#006400</color>
+    <color name = "yellow">#FFFF00</color>
+    <color name = "red">#FF0000</color>
+    
+    <array name="picker">
+        <item>@color/dark_green</item>
+        <item>@color/yellow</item>
+        <item>@color/red</item>
+    </array>
+
+</resources>
